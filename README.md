@@ -33,11 +33,8 @@ We provide:
    ```
 
 2. Install dependencies:  
-   The notebooks use standard Python data science libraries. You can install them with:
+   The notebooks use standard Python data science libraries. You can install them using the pip command
 
-   ```
-   pip install pandas numpy scikit-learn matplotlib seaborn
-   ```
 
 ---
 
